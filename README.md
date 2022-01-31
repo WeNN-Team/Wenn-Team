@@ -8,6 +8,8 @@
 
 <font color="blue">Artifical Intelligence | Image Prosessing</font>
 
+### **Reach out to me**
+
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align ="left" />][youtube]
 
 [<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align ="left" />][Linkedin]
@@ -37,8 +39,8 @@
 
 
 <img height="30" width="30" src = "
-https://pbs.twimg.com/profile_images/1128512412536020992/mzyCrj_h_400x400.png" align ="left" />
-s
+https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align ="left" />
+
 
 <details>
 <summary> :bulb: Github Stats </summary>
@@ -57,8 +59,6 @@ s
 
 <br />
 <br />
-
-
 
 
 
