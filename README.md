@@ -18,6 +18,8 @@
 <br />
 <br />
 
+###Tech I Use
+
 <img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
 
 <img height="30" width="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pkZLfV7FbW_74u__gpfD3Z3OLQWAwLUcN8ckbFNvQcsZmlRyr55k42HOEmBJ8t_gWpk&usqp=CAU" align ="left" />
