@@ -12,7 +12,7 @@
 
 [<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align ="left" />][instagram]
 
-
+[<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/microsoftoutlook.svg" align ="left" />][mail]
 
 
 
@@ -27,3 +27,4 @@
 [youtube]: https://www.youtube.com/channel/UCEKHyJ-_v6T46iRXdM2m33A
 [Linkedin]: https://www.linkedin.com/in/sami-ozlu-38k23e01a/
 [instagram]: https://www.instagram.com/sami.ozlu/?hl=en
+[mail]: ozlusami@outlook.com
