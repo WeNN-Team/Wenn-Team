@@ -28,9 +28,6 @@
 
 
 
-<br />
-<br />
-
 
 
 [youtube]: https://www.youtube.com/channel/UCEKHyJ-_v6T46iRXdM2m33A
