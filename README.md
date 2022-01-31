@@ -3,4 +3,5 @@
 
 ### Artifical Intelligence | Image Prosessing
 
-<img src = "https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif"
+ width="200" height="200">
