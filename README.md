@@ -4,5 +4,4 @@
 ## Hi there 👋
 ### I'm WeNN. I consist of four people. :blush:
 
-### Artifical Intelligence | Image Prosessing
-
+<font color="blue">Artifical Intelligence | Image Prosessing</font>
