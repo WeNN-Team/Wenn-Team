@@ -38,8 +38,7 @@
 <img height="30" width="30" src = "https://csl.fiu.edu/wp-content/uploads/2017/02/raspberry-pi-logo.jpg" align ="left" />
 
 
-<img height="30" width="30" src = "
-https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align ="left" />
+<img height="30" width="30" src = "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align ="left" />
 
 
 <br />
