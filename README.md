@@ -1,8 +1,10 @@
 <img src = "https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="200" height="200">
 
 
-## Hi there 👋
+## Hi there 👋  <img src= "https://komarev.com/ghpvc/?username=Sammy-py" align ="right">
 ### I'm WeNN. I consist of four people. :blush:
+
+
 
 <font color="blue">Artifical Intelligence | Image Prosessing</font>
 
@@ -57,7 +59,7 @@ https://pbs.twimg.com/profile_images/1128512412536020992/mzyCrj_h_400x400.png" a
 <br />
 
 
-<img src= "https://komarev.com/ghpvc/?username=Sammy-py">
+
 
 
 
