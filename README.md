@@ -15,9 +15,10 @@
 [<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/googledrive.svg" align ="left" />][cv]
 
 
+<br />
+<br />
 
-<br />
-<br />
+
 
 <img height="30" width="30" src = "https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" align ="left"/>
 
@@ -28,6 +29,19 @@
 <img height="30" width="30" src = "https://static.javatpoint.com/tutorial/keras/images/keras.png" align ="left" />
 
 <img height="30" width="30" src = "https://fullfreecracked.com/wp-content/uploads/2019/03/Arduino-1.8.9-Crack-Mac-With-Serial-Key-Free-Download.jpg" align ="left" />
+
+<img height="30" width="30" src = "https://csl.fiu.edu/wp-content/uploads/2017/02/raspberry-pi-logo.jpg" align ="left" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
