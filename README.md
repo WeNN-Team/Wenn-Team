@@ -38,12 +38,12 @@
 
 <img height="30" width="30" src = "
 https://pbs.twimg.com/profile_images/1128512412536020992/mzyCrj_h_400x400.png" align ="left" />
-
+s
 
 <details>
 <summary> :bulb: Github Stats </summary>
 <img src= "https://github-readme-stats.vercel.app/api?username=Sammy-py">
-<details>
+
 
 
 <br />
