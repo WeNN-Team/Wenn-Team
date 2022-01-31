@@ -8,9 +8,9 @@
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align ="left" />][youtube]
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align ="left" />][Linkedin]
+[<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align ="left" />][Linkedin]
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align ="left" />][instagram]
+[<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align ="left" />][instagram]
 
 
 
