@@ -8,8 +8,11 @@
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align ="left" />][youtube]
 
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/Linkedin.svg" align ="left" />][Linkedin]
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/Linkedin.svg" align="left"/>][Linkedin]
+<br />
+
+<br />
 
 
 
