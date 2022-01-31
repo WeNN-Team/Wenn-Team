@@ -18,7 +18,7 @@
 <br />
 <br />
 
-###Tech I Use
+### Tech I Use
 
 <img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
 
@@ -38,9 +38,19 @@
 https://pbs.twimg.com/profile_images/1128512412536020992/mzyCrj_h_400x400.png" align ="left" />
 
 
+<details>
+<summary> :bulb: Github Stats </summary>
+<img src= "https://github-readme-stats.vercel.app/api?username=Sammy-py">
+<details>
 
 
+<br />
+<br />
 
+<details>
+<summary> :bulb: Github Stats </summary>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-py&layout=compact">
+<details>
 
 
 
