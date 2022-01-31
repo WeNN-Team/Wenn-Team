@@ -42,6 +42,9 @@
 https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align ="left" />
 
 
+<br />
+<br />
+
 <details>
 <summary> :bulb: Github Stats </summary>
 <img src= "https://github-readme-stats.vercel.app/api?username=Sammy-py">
@@ -55,16 +58,6 @@ https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align 
 <summary> :bulb: Github Stats </summary>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-py&layout=compact">
 <details>
-
-
-<br />
-<br />
-
-
-
-
-
-
 
 
 
