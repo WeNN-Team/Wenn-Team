@@ -19,11 +19,13 @@
 <br />
 <br />
 
-<img height="30" width="30" src = "https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" align ="left">
+<img height="30" width="30" src = "https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" align ="left"/>
 
-<img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" >
+<img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
 
-<img height="30" width="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pkZLfV7FbW_74u__gpfD3Z3OLQWAwLUcN8ckbFNvQcsZmlRyr55k42HOEmBJ8t_gWpk&usqp=CAU" align ="left" >
+<img height="30" width="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pkZLfV7FbW_74u__gpfD3Z3OLQWAwLUcN8ckbFNvQcsZmlRyr55k42HOEmBJ8t_gWpk&usqp=CAU" align ="left" />
+
+<img height="30" width="30" src = "https://static.javatpoint.com/tutorial/keras/images/keras.png" align ="left" />
 
 
 
