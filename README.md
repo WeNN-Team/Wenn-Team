@@ -20,6 +20,8 @@
 <br />
 
 
+[<img height="30" width="30" src = "https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" >]
+
 
 [youtube]: https://www.youtube.com/channel/UCEKHyJ-_v6T46iRXdM2m33A
 [Linkedin]: https://www.linkedin.com/in/sami-ozlu-38k23e01a/
